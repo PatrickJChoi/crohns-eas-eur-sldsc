@@ -4,6 +4,7 @@ Code, logs and results for a pre-registered stratified LD score regression (S-LD
 whether Crohn's disease heritability is distributed differently across gut cell lineages in East Asian and European
 ancestry.
 
+- **Archived code (v1.0.0):** doi:[10.5281/zenodo.23491800](https://doi.org/10.5281/zenodo.23491800)
 - **Pre-registration:** doi:[10.17605/OSF.IO/HQ4A8](https://doi.org/10.17605/OSF.IO/HQ4A8). The plan was registered
   before any association result was read.
 - **Primary result:** joint Wald test of East Asian minus European differences in τ\* across 8 lineages,
