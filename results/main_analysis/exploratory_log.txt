@@ -1,0 +1,5 @@
+E3_ulcerative_colitis written
+E1_fine_types written
+E4_region_specific written
+E5_bootstrap_genesets written
+exit 0

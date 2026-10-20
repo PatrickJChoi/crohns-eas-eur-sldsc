@@ -1,0 +1,96 @@
+reference genotypes loaded in 165s
+Traceback (most recent call last):
+  File "C:\src\Crohns\code\14_phase4_sims.py", line 128, in <module>
+    main()
+  File "C:\src\Crohns\code\14_phase4_sims.py", line 108, in main
+    fits[(anc, "random")] = fit.fit_set(ss, anc, "random", work / "fits", overlap=not a.no_overlap)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\code\11_fit_models.py", line 80, in fit_set
+    fits = list(ex.map(lambda n: run_one(sumstats, anc, n, control, outdir, baseline, overlap), names))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Jaeho\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\_base.py", line 619, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Jaeho\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\_base.py", line 317, in _result_or_cancel
+    return fut.result(timeout)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Jaeho\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Jaeho\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\Jaeho\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\code\11_fit_models.py", line 80, in <lambda>
+    fits = list(ex.map(lambda n: run_one(sumstats, anc, n, control, outdir, baseline, overlap), names))
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\code\11_fit_models.py", line 52, in run_one
+    raise RuntimeError(f"ldsc --h2 failed ({anc} {name}):\n{r.stdout[-2000:]}\n{r.stderr[-2000:]}")
+RuntimeError: ldsc --h2 failed (EUR R7_random):
+el, ddof, numeric_only, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\generic.py", line 11292, in var
+    return self._stat_function_ddof(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\generic.py", line 11266, in _stat_function_ddof
+    return self._reduce(
+           ^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\frame.py", line 10856, in _reduce
+    res, _ = df._mgr.reduce(blk_func, ignore_failures=ignore_failures)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\internals\managers.py", line 1569, in reduce
+    nbs = blk.reduce(func, ignore_failures)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\internals\blocks.py", line 361, in reduce
+    result = func(self.values)
+             ^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\frame.py", line 10827, in blk_func
+    return op(values, axis=axis, skipna=skipna, **kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\nanops.py", line 93, in _f
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\nanops.py", line 155, in f
+    result = alt(values, axis=axis, skipna=skipna, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\nanops.py", line 966, in nanvar
+    sqr = _ensure_numeric((avg - values) ** 2)
+                           ~~~~^~~~~~~~
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 481. MiB for an array with shape (53, 1190321) and data type float64
+
+Analysis finished at Thu Oct  8 05:49:31 2026
+Total time elapsed: 36.65s
+
+ric.py", line 11693, in var
+    return NDFrame.var(self, axis, skipna, level, ddof, numeric_only, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\generic.py", line 11292, in var
+    return self._stat_function_ddof(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\generic.py", line 11266, in _stat_function_ddof
+    return self._reduce(
+           ^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\frame.py", line 10856, in _reduce
+    res, _ = df._mgr.reduce(blk_func, ignore_failures=ignore_failures)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\internals\managers.py", line 1569, in reduce
+    nbs = blk.reduce(func, ignore_failures)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\internals\blocks.py", line 361, in reduce
+    result = func(self.values)
+             ^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\frame.py", line 10827, in blk_func
+    return op(values, axis=axis, skipna=skipna, **kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\nanops.py", line 93, in _f
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\nanops.py", line 155, in f
+    result = alt(values, axis=axis, skipna=skipna, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\nanops.py", line 966, in nanvar
+    sqr = _ensure_numeric((avg - values) ** 2)
+                           ~~~~^~~~~~~~
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 481. MiB for an array with shape (53, 1190321) and data type float64
+

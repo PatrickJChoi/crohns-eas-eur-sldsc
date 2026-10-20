@@ -1,0 +1,24 @@
+EAS: 1,066,818 regression SNPs written
+EAS: fitted 8 lineage models
+EUR: 1,152,942 regression SNPs written
+EUR_deLange: fitted 8 lineage models
+FIN: 1,178,735 regression SNPs written
+EUR_FinnGen: fitted 8 lineage models
+{
+ "primary_EAS_vs_EUR": {
+  "W": 4.044833137015662,
+  "K": 8,
+  "p": 0.8530559580444523
+ },
+ "validation_i_deLange_vs_FinnGen": {
+  "W": 7.60359742202203,
+  "K": 8,
+  "p": 0.4731169179814465
+ },
+ "validation_ii_EAS_vs_FinnGen": {
+  "W": 7.909653173878287,
+  "K": 8,
+  "p": 0.4423449576412184
+ }
+}
+exit 0

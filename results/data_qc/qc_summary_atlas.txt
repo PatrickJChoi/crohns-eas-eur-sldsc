@@ -1,0 +1,7 @@
+atlas: 428,469 cells x 33,538 genes; donors ('Sample name'): 41
+donors with >1 diagnosis label: 0
+donors by diagnosis: fetal: 16; Pediatric healthy: 11; Healthy adult: 7; Pediatric Crohn Disease: 7
+cells by diagnosis: fetal: 247,344; Healthy adult: 124,367; Pediatric healthy: 29,594; Pediatric Crohn Disease: 27,164
+postnatal healthy cells: 153,961 from 18 donors; regions: LargeInt: 64,045; SmallInt: 53,944; REC: 18,430; lymph node: 11,164; APD: 6,378
+postnatal healthy cells by lineage (cells / donors): B cells: 13,064/18; Endothelial: 5,773/18; Epithelial: 85,521/18; Mesenchymal: 9,479/18; Myeloid: 2,803/18; Neuronal: 440/17; Plasma cells: 16,588/18; T cells: 20,293/18
+fine cell types among postnatal healthy cells: 89; with >=100 cells and >=3 donors: 65

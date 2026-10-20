@@ -1,0 +1,15 @@
+cells kept: 142,797 of 428,469 (healthy postnatal, not lymph node, not doublet); donors: 15
+lineage B cells: 10,335 cells in kept pseudobulks, 13 donors -> kept
+lineage Endothelial: 4,897 cells in kept pseudobulks, 12 donors -> kept
+lineage Epithelial: 85,498 cells in kept pseudobulks, 15 donors -> kept
+lineage Mesenchymal: 9,207 cells in kept pseudobulks, 15 donors -> kept
+lineage Myeloid: 2,642 cells in kept pseudobulks, 15 donors -> kept
+lineage Neuronal: 403 cells in kept pseudobulks, 8 donors -> kept
+lineage Plasma cells: 16,453 cells in kept pseudobulks, 15 donors -> kept
+lineage T cells: 13,253 cells in kept pseudobulks, 14 donors -> kept
+K = 8 lineages retained
+autosomal protein-coding GENCODE v19 genes matched in atlas: 18,564; expressed (mean CPM >= 1 in a lineage): 14,919
+top05: 746 genes per lineage
+top10: 1492 genes per lineage
+top20: 2984 genes per lineage
+donor-bootstrap stability of top-10% sets (median Jaccard [5th-95th pct]): B cells: 0.79 [0.68-0.85]; Endothelial: 0.80 [0.71-0.86]; Epithelial: 0.87 [0.82-0.91]; Mesenchymal: 0.81 [0.75-0.86]; Myeloid: 0.77 [0.68-0.84]; Neuronal: 0.68 [0.55-0.82]; Plasma cells: 0.76 [0.69-0.82]; T cells: 0.77 [0.71-0.83]

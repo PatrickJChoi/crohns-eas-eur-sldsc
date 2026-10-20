@@ -1,0 +1,8 @@
+common SNPs: 950,331 (removed 468 with chi2 > 80 in any dataset)
+EAS: fitted
+EUR_deLange: fitted
+EUR_FinnGen: fitted
+EAS vs EUR_deLange: summed W=4.39 p=0.820 | direct W=7.22 p=0.513 | pseudovalue corr [0.37, 0.37, 0.26, 0.35, 0.24, 0.25, 0.4, 0.39]
+EUR_deLange vs EUR_FinnGen: summed W=7.66 p=0.468 | direct W=7.92 p=0.441 | pseudovalue corr [0.4, 0.28, 0.28, 0.01, 0.19, 0.19, 0.21, 0.4]
+EAS vs EUR_FinnGen: summed W=7.25 p=0.510 | direct W=8.46 p=0.389 | pseudovalue corr [0.13, 0.11, 0.21, 0.09, 0.09, 0.18, 0.13, 0.33]
+aligned exit 0

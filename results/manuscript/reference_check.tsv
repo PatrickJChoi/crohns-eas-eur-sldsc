@@ -1,0 +1,21 @@
+key	doi	ok	first_author	year	title	journal
+Liu2023	10.1038/s41588-023-01384-0	True	Liu	2023	Genetic architecture of the inflammatory bowel diseases across East Asian and European ancestries	Nature Genetics
+deLange2017	10.1038/ng.3760	True	de Lange	2017	Genome-wide association study implicates immune activation of multiple integrin genes in inflammatory bowel disease	Nature Genetics
+Kurki2023	10.1038/s41586-022-05473-8	True	Kurki	2023	FinnGen provides genetic insights from a well-phenotyped isolated population	Nature
+Elmentaite2021	10.1038/s41586-021-03852-1	True	Elmentaite	2021	Cells of the human intestinal tract mapped across space and time	Nature
+BulikSullivan2015	10.1038/ng.3211	True	Bulik-Sullivan	2015	LD Score regression distinguishes confounding from polygenicity in genome-wide association studies	Nature Genetics
+Finucane2015	10.1038/ng.3404	True	Finucane	2015	Partitioning heritability by functional annotation using genome-wide association summary statistics	Nature Genetics
+Finucane2018	10.1038/s41588-018-0081-4	True	Finucane	2018	Heritability enrichment of specifically expressed genes identifies disease-relevant tissues and cell types	Nature Genetics
+Gazal2017	10.1038/ng.3954	True	Gazal	2017	Linkage disequilibrium–dependent architecture of human complex traits shows action of negative selection	Nature Genetics
+Skene2016	10.3389/fnins.2016.00016	True	Skene	2016	Identification of Vulnerable Cell Types in Major Brain Disorders Using Single Cell Transcriptomes and Expression Weighted Cell Type Enrichment	Frontiers in Neuroscience
+Bryois2020	10.1038/s41588-020-0610-9	True	Bryois	2020	Genetic identification of cell types underlying brain complex traits yields insights into the etiology of Parkinson’s disease	Nature Genetics
+Jagadeesh2022	10.1038/s41588-022-01187-9	True	Jagadeesh	2022	Identifying disease-critical cell types and cellular processes by integrating single-cell RNA-sequencing and human genetics	Nature Genetics
+Squair2021	10.1038/s41467-021-25960-2	True	Squair	2021	Confronting false discoveries in single-cell differential expression	Nature Communications
+Brown2016	10.1016/j.ajhg.2016.05.001	True	Brown	2016	Transethnic Genetic-Correlation Estimates from Summary Statistics	The American Journal of Human Genetics
+Shi2021	10.1038/s41467-021-21286-1	True	Shi	2021	Population-specific causal disease effect sizes in functionally important regions impacted by selection	Nature Communications
+Amariuta2020	10.1038/s41588-020-00740-8	True	Amariuta	2020	Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements	Nature Genetics
+Krzak2026	10.1038/s41588-026-02634-7	True	Krzak	2026	Single-cell RNA sequencing of terminal ileal biopsies identifies signatures of Crohn’s disease pathogenesis	Nature Genetics
+Zhao2026	10.1038/s41588-026-02755-z	True	Zhao	2026	Single-cell analysis of chromatin accessibility in the human intestine identifies regulatory programs and clarifies genetic associations in Crohn’s disease	Nature Genetics
+TGP2015	10.1038/nature15393	True	Auton	2015	A global reference for human genetic variation	Nature
+Harrow2012	10.1101/gr.135350.111	True	Harrow	2012	GENCODE: The reference human genome annotation for The ENCODE Project	Genome Research
+Breeze2025	10.64898/2025.12.19.695639	True	Breeze	2025	LDscore: a scalable, Python 3-powered web platform for LD score regression analysis	

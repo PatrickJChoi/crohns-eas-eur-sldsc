@@ -1,0 +1,42 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 3.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./munge_sumstats.py \
+--sumstats C:\src\Crohns\results\phase5_R21\exploratory\E3_UC_EAS.prepared.tsv.gz \
+--out C:\src\Crohns\results\phase5_R21\exploratory\E3_UC_EAS \
+--N-col N 
+
+Interpreting column names as follows:
+SNP:	Variant ID (e.g., rs number)
+A1:	Allele 1, interpreted as ref allele for signed sumstat.
+A2:	Allele 2, interpreted as non-ref allele for signed sumstat.
+Z:	Z-score (0 --> no effect; above 0 --> A1 is trait/risk increasing)
+N:	Sample size
+P:	p-Value
+
+Reading sumstats from C:\src\Crohns\results\phase5_R21\exploratory\E3_UC_EAS.prepared.tsv.gz into memory 5000000 SNPs at a time.
+Read 1066794 SNPs from --sumstats file.
+Removed 0 SNPs with missing values.
+Removed 0 SNPs with INFO <= 0.9.
+Removed 0 SNPs with MAF <= 0.01.
+Removed 0 SNPs with out-of-bounds p-values.
+Removed 0 variants that were not SNPs or were strand-ambiguous.
+1066794 SNPs remain.
+Removed 0 SNPs with duplicated rs numbers (1066794 SNPs remain).
+Removed 72533 SNPs with N < 9458.08156821898 (994261 SNPs remain).
+Median value of Z was -0.0030864197530864, which seems sensible.
+Writing summary statistics for 994261 SNPs (994261 with nonmissing beta) to C:\src\Crohns\results\phase5_R21\exploratory\E3_UC_EAS.sumstats.gz.
+
+Metadata:
+Mean chi^2 = 1.192
+Lambda GC = 1.111
+Max chi^2 = 474.734
+720 Genome-wide significant SNPs (some may have been removed by filtering).
+
+Conversion finished at Fri Oct  9 00:34:53 2026
+Total time elapsed: 17.96s

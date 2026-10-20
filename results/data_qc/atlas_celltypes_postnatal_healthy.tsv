@@ -1,0 +1,90 @@
+Integrated_05	cells	donors
+TA	44084	17
+IgA plasma cell	15582	18
+Enterocyte	15340	16
+Colonocyte	11969	7
+Memory B	4397	16
+Activated CD8 T	4225	16
+BEST4+ epithelial	3886	15
+Transitional Stromal 3 (C3+)	3658	7
+Naive B	3513	16
+Activated CD4 T	3296	15
+BEST2+ Goblet cell	3010	8
+Paneth	2861	17
+SELL+ CD4 T	2680	17
+Treg	2325	16
+Mature venous EC	2004	18
+gdT	1976	17
+Cycling B cell	1800	16
+Goblet cell	1788	16
+Stromal 1 (CCL11+)	1707	17
+Mature arterial EC	1412	18
+Stem cells	1340	16
+CD8 Tmem	1275	16
+GC B cell	1061	10
+Contractile pericyte (PLN+)	1061	15
+arterial capillary	856	17
+Tfh	842	10
+Stromal 2 (NPY+)	831	17
+DZ GC cell	796	9
+Cycling plasma cell	767	11
+IgG plasma cell	747	17
+Macrophages	746	16
+LYVE1+ Macrophage	703	18
+Tuft	660	16
+TRGV5/7 gdT	595	13
+Stromal 1 (ADAMDEC1+)	572	18
+TRGV2 gdT	571	13
+LEC1 (ACKR4+)	568	11
+cDC2	539	18
+LZ GC cell	531	9
+LEC6 (ADAMTS4+)	515	9
+TRGV4 gdT	491	13
+SELL+ CD8 T	446	16
+Adult Glia	440	17
+Th17	414	14
+Microfold cell	413	14
+ILC3	377	17
+NK cell	361	16
+mLN Stroma (FMO2+)	355	7
+Pericyte	280	16
+LEC3 (ADGRG3+)	278	16
+IgM plasma cell	259	9
+myofibroblast	248	15
+Monocytes	245	18
+Mast cell	235	17
+Stromal 3 (C7+)	225	16
+FDC	183	8
+FCRL4+ Memory B	176	9
+NK T cell	170	9
+T reticular	161	11
+cDC1	139	16
+myofibroblast (RSPO2+)	134	11
+LEC5 (CLDN11+)	112	6
+CX3CR1+ CD8 Tmem	111	5
+MMP9+ Inflammatory macrophage	105	8
+MAIT cell	103	12
+EC cells (TAC1+)	59	10
+Lymphoid DC	53	11
+L cells (PYY+)	41	12
+pDC	35	5
+Th1	35	7
+N cells (NTS+)	27	11
+Mesothelium (PRG4+)	25	2
+STAT1+ Naive B	23	8
+Stromal 4 (MMP1+)	20	7
+EECs	17	5
+mLTo	16	7
+venous capillary	8	4
+D cells (SST+)	7	4
+LEC4 (STAB2+)	6	3
+cycling EC	6	4
+I cells (CCK+)	6	1
+Progenitor (NEUROG3+)	6	5
+LEC2 (MADCAM1+)	4	2
+M/X cells (MLN/GHRL+)	4	2
+CLC+ Mast cell	3	3
+K cells (GIP+)	3	1
+Fetal arterial EC	3	3
+Stromal 2 (CH25H+)	3	2
+Fetal venous EC	1	1

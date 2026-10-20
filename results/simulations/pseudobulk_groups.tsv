@@ -1,0 +1,119 @@
+donor	lineage	n_cells
+A26 (386C)	B cells	109
+A30 (398B)	B cells	284
+A32 (411C)	B cells	361
+A33 (414C)	B cells	57
+A34 (417C)	B cells	127
+A38 (432C)	B cells	175
+A39 (440C)	B cells	621
+T036	B cells	3518
+T036NEG	B cells	1299
+T036POS	B cells	47
+T057	B cells	635
+T110NEG	B cells	1198
+T160	B cells	768
+T161	B cells	608
+T182	B cells	510
+A26 (386C)	Endothelial	65
+A30 (398B)	Endothelial	135
+A32 (411C)	Endothelial	1288
+A33 (414C)	Endothelial	615
+A34 (417C)	Endothelial	1804
+A38 (432C)	Endothelial	372
+T024	Endothelial	54
+T036	Endothelial	33
+T036NEG	Endothelial	245
+T057	Endothelial	89
+T110NEG	Endothelial	58
+T110POS	Endothelial	30
+T161	Endothelial	22
+T182	Endothelial	73
+A26 (386C)	Epithelial	4397
+A30 (398B)	Epithelial	2276
+A32 (411C)	Epithelial	6449
+A33 (414C)	Epithelial	35327
+A34 (417C)	Epithelial	18829
+A38 (432C)	Epithelial	5159
+A39 (440C)	Epithelial	4904
+T024	Epithelial	978
+T036	Epithelial	449
+T036POS	Epithelial	1602
+T044	Epithelial	943
+T057	Epithelial	1099
+T110POS	Epithelial	1875
+T160	Epithelial	271
+T161	Epithelial	182
+T182	Epithelial	740
+A26 (386C)	Mesenchymal	311
+A30 (398B)	Mesenchymal	754
+A32 (411C)	Mesenchymal	2259
+A33 (414C)	Mesenchymal	389
+A34 (417C)	Mesenchymal	1772
+A38 (432C)	Mesenchymal	752
+A39 (440C)	Mesenchymal	60
+T024	Mesenchymal	318
+T036	Mesenchymal	87
+T036NEG	Mesenchymal	864
+T036POS	Mesenchymal	98
+T044	Mesenchymal	380
+T057	Mesenchymal	558
+T110NEG	Mesenchymal	196
+T110POS	Mesenchymal	101
+T160	Mesenchymal	55
+T161	Mesenchymal	51
+T182	Mesenchymal	202
+A26 (386C)	Myeloid	54
+A30 (398B)	Myeloid	112
+A32 (411C)	Myeloid	909
+A33 (414C)	Myeloid	23
+A34 (417C)	Myeloid	368
+A38 (432C)	Myeloid	174
+A39 (440C)	Myeloid	133
+T024	Myeloid	93
+T036	Myeloid	42
+T036NEG	Myeloid	212
+T044	Myeloid	94
+T057	Myeloid	188
+T110NEG	Myeloid	86
+T160	Myeloid	63
+T161	Myeloid	25
+T182	Myeloid	38
+A30 (398B)	Neuronal	83
+A32 (411C)	Neuronal	105
+A33 (414C)	Neuronal	46
+A34 (417C)	Neuronal	32
+T024	Neuronal	20
+T036NEG	Neuronal	39
+T057	Neuronal	51
+A26 (386C)	Plasma cells	1192
+A30 (398B)	Plasma cells	475
+A32 (411C)	Plasma cells	9533
+A33 (414C)	Plasma cells	214
+A34 (417C)	Plasma cells	3158
+A38 (432C)	Plasma cells	196
+A39 (440C)	Plasma cells	148
+T024	Plasma cells	88
+T036	Plasma cells	150
+T036NEG	Plasma cells	559
+T044	Plasma cells	136
+T057	Plasma cells	165
+T110NEG	Plasma cells	114
+T160	Plasma cells	69
+T161	Plasma cells	49
+T182	Plasma cells	189
+A26 (386C)	T cells	1010
+A30 (398B)	T cells	548
+A32 (411C)	T cells	473
+A34 (417C)	T cells	207
+A38 (432C)	T cells	1403
+A39 (440C)	T cells	2941
+T024	T cells	790
+T036	T cells	1223
+T036NEG	T cells	172
+T044	T cells	707
+T057	T cells	1299
+T110NEG	T cells	721
+T110POS	T cells	28
+T160	T cells	519
+T161	T cells	415
+T182	T cells	796

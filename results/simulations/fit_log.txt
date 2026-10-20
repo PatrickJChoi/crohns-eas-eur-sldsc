@@ -1,0 +1,238 @@
+fit shared rep 0: W=10.50 p=0.232 h2 z EAS 10.5 EUR 7.9 (312s)
+fit shared rep 1: W=6.07 p=0.639 h2 z EAS 9.6 EUR 8.5 (316s)
+fit shared rep 2: W=9.01 p=0.341 h2 z EAS 7.2 EUR 8.9 (319s)
+fit shared rep 3: W=8.24 p=0.411 h2 z EAS 9.7 EUR 10.0 (315s)
+fit shared rep 4: W=5.89 p=0.660 h2 z EAS 7.8 EUR 5.7 (311s)
+fit shared rep 5: W=5.10 p=0.747 h2 z EAS 10.3 EUR 6.9 (315s)
+fit shared rep 6: W=2.50 p=0.962 h2 z EAS 9.5 EUR 8.7 (318s)
+fit shared rep 7: W=10.81 p=0.213 h2 z EAS 7.7 EUR 6.5 (316s)
+fit shared rep 8: W=12.95 p=0.113 h2 z EAS 8.6 EUR 9.9 (325s)
+fit shared rep 9: W=3.49 p=0.900 h2 z EAS 9.2 EUR 10.8 (317s)
+fit shared rep 10: W=5.61 p=0.690 h2 z EAS 9.4 EUR 9.9 (311s)
+fit shared rep 11: W=5.44 p=0.709 h2 z EAS 10.3 EUR 9.7 (307s)
+fit shared rep 12: W=13.58 p=0.094 h2 z EAS 8.9 EUR 8.9 (312s)
+fit shared rep 13: W=9.32 p=0.316 h2 z EAS 9.9 EUR 9.0 (308s)
+fit shared rep 14: W=4.57 p=0.802 h2 z EAS 10.1 EUR 10.9 (317s)
+fit shared rep 15: W=10.95 p=0.204 h2 z EAS 9.3 EUR 9.1 (319s)
+fit shared rep 16: W=10.69 p=0.220 h2 z EAS 10.2 EUR 9.6 (310s)
+fit shared rep 17: W=15.96 p=0.043 h2 z EAS 8.9 EUR 9.5 (311s)
+fit shared rep 18: W=9.66 p=0.290 h2 z EAS 9.4 EUR 9.5 (315s)
+fit shared rep 19: W=9.09 p=0.335 h2 z EAS 9.7 EUR 7.9 (318s)
+fit shared rep 20: W=6.77 p=0.562 h2 z EAS 8.5 EUR 6.4 (311s)
+fit shared rep 21: W=3.31 p=0.913 h2 z EAS 8.3 EUR 10.7 (313s)
+fit shared rep 22: W=7.49 p=0.485 h2 z EAS 9.1 EUR 7.6 (314s)
+fit shared rep 23: W=3.23 p=0.919 h2 z EAS 9.1 EUR 9.2 (311s)
+fit shared rep 24: W=6.83 p=0.555 h2 z EAS 9.0 EUR 7.4 (321s)
+fit shared rep 25: W=12.98 p=0.113 h2 z EAS 7.3 EUR 8.8 (316s)
+fit shared rep 26: W=10.55 p=0.229 h2 z EAS 7.5 EUR 9.9 (321s)
+fit shared rep 27: W=9.14 p=0.331 h2 z EAS 8.7 EUR 7.7 (318s)
+fit shared rep 28: W=8.38 p=0.397 h2 z EAS 8.2 EUR 8.7 (330s)
+fit shared rep 29: W=8.07 p=0.426 h2 z EAS 8.6 EUR 10.2 (319s)
+fit shared rep 30: W=5.79 p=0.671 h2 z EAS 7.1 EUR 7.4 (321s)
+fit shared rep 31: W=5.55 p=0.698 h2 z EAS 8.8 EUR 8.5 (315s)
+fit shared rep 32: W=17.56 p=0.025 h2 z EAS 9.3 EUR 7.5 (314s)
+fit shared rep 33: W=6.66 p=0.574 h2 z EAS 7.8 EUR 7.1 (308s)
+fit shared rep 34: W=6.71 p=0.569 h2 z EAS 8.5 EUR 8.6 (312s)
+fit shared rep 35: W=6.26 p=0.618 h2 z EAS 8.7 EUR 9.3 (310s)
+fit shared rep 36: W=11.92 p=0.155 h2 z EAS 9.3 EUR 9.3 (309s)
+fit shared rep 37: W=5.74 p=0.676 h2 z EAS 9.4 EUR 8.6 (310s)
+fit shared rep 38: W=12.16 p=0.144 h2 z EAS 8.3 EUR 8.5 (313s)
+fit shared rep 39: W=8.96 p=0.346 h2 z EAS 9.4 EUR 8.8 (313s)
+fit shared rep 40: W=6.10 p=0.636 h2 z EAS 9.9 EUR 8.4 (314s)
+fit shared rep 41: W=1.37 p=0.995 h2 z EAS 9.9 EUR 10.0 (318s)
+fit shared rep 42: W=1.03 p=0.998 h2 z EAS 10.9 EUR 10.1 (316s)
+fit shared rep 43: W=8.60 p=0.377 h2 z EAS 10.3 EUR 7.6 (324s)
+fit shared rep 44: W=2.37 p=0.968 h2 z EAS 9.3 EUR 8.2 (316s)
+fit shared rep 45: W=13.32 p=0.101 h2 z EAS 10.7 EUR 8.1 (314s)
+fit shared rep 46: W=10.38 p=0.240 h2 z EAS 7.6 EUR 10.2 (316s)
+fit shared rep 47: W=10.47 p=0.234 h2 z EAS 8.7 EUR 10.8 (319s)
+fit shared rep 48: W=5.32 p=0.723 h2 z EAS 9.3 EUR 8.7 (320s)
+fit shared rep 49: W=11.96 p=0.153 h2 z EAS 8.9 EUR 8.9 (320s)
+fit shared rep 50: W=9.46 p=0.305 h2 z EAS 9.0 EUR 10.6 (318s)
+fit shared rep 51: W=3.27 p=0.916 h2 z EAS 9.7 EUR 7.8 (313s)
+fit shared rep 52: W=8.65 p=0.373 h2 z EAS 9.3 EUR 8.2 (311s)
+fit shared rep 53: W=10.95 p=0.205 h2 z EAS 9.0 EUR 8.6 (305s)
+fit shared rep 54: W=9.51 p=0.301 h2 z EAS 7.3 EUR 6.4 (308s)
+fit shared rep 55: W=5.93 p=0.656 h2 z EAS 8.6 EUR 9.3 (308s)
+fit shared rep 56: W=10.33 p=0.243 h2 z EAS 9.4 EUR 7.8 (304s)
+fit shared rep 57: W=4.37 p=0.822 h2 z EAS 8.0 EUR 9.0 (312s)
+fit shared rep 58: W=9.21 p=0.325 h2 z EAS 8.6 EUR 10.0 (341s)
+fit shared rep 59: W=5.24 p=0.731 h2 z EAS 9.0 EUR 8.9 (370s)
+fit null rep 0: W=4.46 p=0.813 h2 z EAS 9.0 EUR 9.4 (209s)
+fit null rep 1: W=10.92 p=0.206 h2 z EAS 7.8 EUR 7.6 (221s)
+fit null rep 2: W=5.75 p=0.676 h2 z EAS 8.2 EUR 7.8 (177s)
+fit null rep 3: W=7.96 p=0.437 h2 z EAS 11.4 EUR 7.0 (162s)
+fit null rep 4: W=5.66 p=0.685 h2 z EAS 7.7 EUR 10.2 (156s)
+fit null rep 5: W=8.57 p=0.380 h2 z EAS 10.4 EUR 10.2 (172s)
+fit null rep 6: W=9.03 p=0.340 h2 z EAS 9.3 EUR 7.1 (158s)
+fit null rep 7: W=11.18 p=0.192 h2 z EAS 8.8 EUR 7.1 (152s)
+fit null rep 8: W=10.81 p=0.212 h2 z EAS 8.7 EUR 9.7 (149s)
+fit null rep 9: W=4.35 p=0.824 h2 z EAS 10.4 EUR 7.9 (162s)
+fit null rep 10: W=7.57 p=0.477 h2 z EAS 8.8 EUR 10.2 (174s)
+fit null rep 11: W=7.02 p=0.534 h2 z EAS 8.9 EUR 7.6 (173s)
+fit null rep 12: W=8.78 p=0.361 h2 z EAS 9.3 EUR 8.8 (160s)
+fit null rep 13: W=5.18 p=0.738 h2 z EAS 10.9 EUR 8.6 (154s)
+fit null rep 14: W=10.26 p=0.247 h2 z EAS 8.9 EUR 9.1 (153s)
+fit null rep 15: W=4.92 p=0.766 h2 z EAS 8.3 EUR 8.7 (152s)
+fit null rep 16: W=20.09 p=0.010 h2 z EAS 11.1 EUR 9.2 (166s)
+fit null rep 17: W=3.50 p=0.899 h2 z EAS 6.9 EUR 11.9 (172s)
+fit null rep 18: W=6.79 p=0.559 h2 z EAS 10.3 EUR 9.2 (201s)
+fit null rep 19: W=18.66 p=0.017 h2 z EAS 7.7 EUR 11.5 (188s)
+fit diff4 rep 0: W=4.91 p=0.768 h2 z EAS 8.8 EUR 8.5 (242s)
+fit diff4 rep 1: W=10.73 p=0.217 h2 z EAS 10.8 EUR 7.8 (199s)
+fit diff4 rep 2: W=12.22 p=0.142 h2 z EAS 8.8 EUR 6.9 (171s)
+fit diff4 rep 3: W=8.31 p=0.404 h2 z EAS 9.1 EUR 6.8 (160s)
+fit diff4 rep 4: W=9.52 p=0.300 h2 z EAS 9.7 EUR 7.8 (155s)
+fit diff4 rep 5: W=7.40 p=0.495 h2 z EAS 10.7 EUR 8.9 (168s)
+fit diff4 rep 6: W=5.37 p=0.717 h2 z EAS 8.3 EUR 9.5 (161s)
+fit diff4 rep 7: W=13.42 p=0.098 h2 z EAS 7.2 EUR 9.2 (153s)
+fit diff4 rep 8: W=7.34 p=0.500 h2 z EAS 10.1 EUR 9.2 (151s)
+fit diff4 rep 9: W=10.31 p=0.244 h2 z EAS 7.0 EUR 9.2 (149s)
+fit diff4 rep 10: W=3.21 p=0.921 h2 z EAS 8.7 EUR 10.4 (160s)
+fit diff4 rep 11: W=9.53 p=0.300 h2 z EAS 9.1 EUR 9.4 (157s)
+fit diff4 rep 12: W=5.09 p=0.748 h2 z EAS 9.0 EUR 6.5 (148s)
+fit diff4 rep 13: W=8.82 p=0.358 h2 z EAS 8.8 EUR 8.0 (152s)
+fit diff4 rep 14: W=2.07 p=0.979 h2 z EAS 7.3 EUR 8.6 (150s)
+fit diff4 rep 15: W=9.65 p=0.291 h2 z EAS 9.0 EUR 7.7 (146s)
+fit diff4 rep 16: W=6.86 p=0.552 h2 z EAS 8.0 EUR 8.5 (158s)
+fit diff4 rep 17: W=7.40 p=0.495 h2 z EAS 8.4 EUR 7.3 (152s)
+fit diff4 rep 18: W=11.61 p=0.169 h2 z EAS 7.9 EUR 7.7 (157s)
+fit diff4 rep 19: W=14.85 p=0.062 h2 z EAS 8.4 EUR 8.2 (154s)
+fit diff6 rep 0: W=20.99 p=0.007 h2 z EAS 8.6 EUR 8.1 (173s)
+fit diff6 rep 1: W=12.18 p=0.143 h2 z EAS 7.8 EUR 9.7 (234s)
+fit diff6 rep 2: W=9.81 p=0.279 h2 z EAS 7.5 EUR 9.4 (228s)
+fit diff6 rep 3: W=6.80 p=0.559 h2 z EAS 9.7 EUR 10.5 (229s)
+fit diff6 rep 4: W=15.75 p=0.046 h2 z EAS 7.6 EUR 7.3 (228s)
+fit diff6 rep 5: W=8.57 p=0.380 h2 z EAS 8.3 EUR 8.2 (232s)
+fit diff6 rep 6: W=15.36 p=0.053 h2 z EAS 8.4 EUR 7.6 (226s)
+fit diff6 rep 7: W=8.52 p=0.385 h2 z EAS 9.5 EUR 8.6 (221s)
+fit diff6 rep 8: W=25.06 p=0.002 h2 z EAS 8.2 EUR 7.2 (214s)
+fit diff6 rep 9: W=10.74 p=0.217 h2 z EAS 9.0 EUR 7.5 (226s)
+fit diff6 rep 10: W=10.91 p=0.207 h2 z EAS 9.1 EUR 9.0 (221s)
+fit diff6 rep 11: W=6.76 p=0.562 h2 z EAS 10.1 EUR 10.1 (235s)
+fit diff6 rep 12: W=13.28 p=0.103 h2 z EAS 10.1 EUR 8.4 (224s)
+fit diff6 rep 13: W=11.19 p=0.191 h2 z EAS 8.0 EUR 9.0 (218s)
+fit diff6 rep 14: W=7.86 p=0.447 h2 z EAS 5.9 EUR 8.3 (231s)
+fit diff6 rep 15: W=17.07 p=0.029 h2 z EAS 9.4 EUR 7.6 (221s)
+fit diff6 rep 16: W=13.08 p=0.109 h2 z EAS 9.4 EUR 7.1 (217s)
+fit diff6 rep 17: W=6.91 p=0.546 h2 z EAS 7.6 EUR 7.4 (224s)
+fit diff6 rep 18: W=22.96 p=0.003 h2 z EAS 9.0 EUR 10.1 (238s)
+fit diff6 rep 19: W=8.40 p=0.396 h2 z EAS 9.6 EUR 8.3 (164s)
+fit diff10 rep 0: W=26.96 p=0.001 h2 z EAS 7.8 EUR 8.6 (175s)
+fit diff10 rep 1: W=15.76 p=0.046 h2 z EAS 9.7 EUR 9.0 (180s)
+fit diff10 rep 2: W=24.66 p=0.002 h2 z EAS 7.7 EUR 8.9 (174s)
+fit diff10 rep 3: W=20.13 p=0.010 h2 z EAS 8.3 EUR 8.8 (167s)
+fit diff10 rep 4: W=23.26 p=0.003 h2 z EAS 8.0 EUR 9.2 (176s)
+fit diff10 rep 5: W=10.65 p=0.222 h2 z EAS 7.2 EUR 7.6 (197s)
+fit diff10 rep 6: W=12.60 p=0.127 h2 z EAS 10.7 EUR 7.8 (279s)
+fit diff10 rep 7: W=26.58 p=0.001 h2 z EAS 8.5 EUR 9.3 (267s)
+fit diff10 rep 8: W=26.33 p=0.001 h2 z EAS 8.9 EUR 8.5 (272s)
+fit diff10 rep 9: W=17.27 p=0.027 h2 z EAS 8.4 EUR 10.4 (188s)
+fit diff10 rep 10: W=12.59 p=0.127 h2 z EAS 8.5 EUR 7.2 (192s)
+fit diff10 rep 11: W=20.42 p=0.009 h2 z EAS 8.6 EUR 8.0 (169s)
+fit diff10 rep 12: W=29.25 p=0.000 h2 z EAS 12.4 EUR 9.5 (202s)
+fit diff10 rep 13: W=18.17 p=0.020 h2 z EAS 9.9 EUR 8.1 (200s)
+Traceback (most recent call last):
+  File "C:\src\Crohns\code\14_phase4_sims.py", line 159, in <module>
+    main()
+  File "C:\src\Crohns\code\14_phase4_sims.py", line 155, in main
+    gen(a) if a.stage == "gen" else fit_stage(a)
+                                    ^^^^^^^^^^^^
+  File "C:\src\Crohns\code\14_phase4_sims.py", line 127, in fit_stage
+    fits[(anc, g)] = fit.fit_set(work / f"{anc}.sumstats.gz", anc, g, work / "fits",
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\code\11_fit_models.py", line 80, in fit_set
+    fits = list(ex.map(lambda n: run_one(sumstats, anc, n, control, outdir, baseline, overlap), names))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Jaeho\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\_base.py", line 619, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Jaeho\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\_base.py", line 317, in _result_or_cancel
+    return fut.result(timeout)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Jaeho\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Jaeho\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Users\Jaeho\AppData\Local\Programs\Python\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\code\11_fit_models.py", line 80, in <lambda>
+    fits = list(ex.map(lambda n: run_one(sumstats, anc, n, control, outdir, baseline, overlap), names))
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\code\11_fit_models.py", line 52, in run_one
+    raise RuntimeError(f"ldsc --h2 failed ({anc} {name}):\n{r.stdout[-2000:]}\n{r.stderr[-2000:]}")
+RuntimeError: ldsc --h2 failed (EUR L_B_cells_top10):
+ackages\pandas\core\frame.py", line 3798, in __getitem__
+    return self._getitem_bool_array(key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\frame.py", line 3853, in _getitem_bool_array
+    return self._take_with_is_copy(indexer, axis=0)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\generic.py", line 3902, in _take_with_is_copy
+    result = self._take(indices=indices, axis=axis)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\generic.py", line 3886, in _take
+    new_data = self._mgr.take(
+               ^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\internals\managers.py", line 978, in take
+    return self.reindex_indexer(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\internals\managers.py", line 751, in reindex_indexer
+    new_blocks = [
+                 ^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\internals\managers.py", line 752, in <listcomp>
+    blk.take_nd(
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\internals\blocks.py", line 880, in take_nd
+    new_values = algos.take_nd(
+                 ^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\array_algos\take.py", line 117, in take_nd
+    return _take_nd_ndarray(arr, indexer, axis, fill_value, allow_fill)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\array_algos\take.py", line 158, in _take_nd_ndarray
+    out = np.empty(out_shape, dtype=dtype)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 481. MiB for an array with shape (53, 1190321) and data type float64
+
+Analysis finished at Thu Oct  8 19:53:01 2026
+Total time elapsed: 26.07s
+
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\frame.py", line 3853, in _getitem_bool_array
+    return self._take_with_is_copy(indexer, axis=0)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\generic.py", line 3902, in _take_with_is_copy
+    result = self._take(indices=indices, axis=axis)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\generic.py", line 3886, in _take
+    new_data = self._mgr.take(
+               ^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\internals\managers.py", line 978, in take
+    return self.reindex_indexer(
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\internals\managers.py", line 751, in reindex_indexer
+    new_blocks = [
+                 ^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\internals\managers.py", line 752, in <listcomp>
+    blk.take_nd(
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\internals\blocks.py", line 880, in take_nd
+    new_values = algos.take_nd(
+                 ^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\array_algos\take.py", line 117, in take_nd
+    return _take_nd_ndarray(arr, indexer, axis, fill_value, allow_fill)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\src\Crohns\.venv-ldsc\Lib\site-packages\pandas\core\array_algos\take.py", line 158, in _take_nd_ndarray
+    out = np.empty(out_shape, dtype=dtype)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 481. MiB for an array with shape (53, 1190321) and data type float64
+sys:1: ResourceWarning: unclosed file <_io.TextIOWrapper name='C:\\src\\Crohns\\data\\processed\\r21\\sim\\diff10\\rep14\\fits\\EUR.L_B_cells_top10.log' mode='w' encoding='cp1252'>
+
+fit exit 1
+fit diff10 rep 14: W=15.46 p=0.051 h2 z EAS 11.7 EUR 7.5 (226s)
+fit diff10 rep 15: W=23.18 p=0.003 h2 z EAS 8.9 EUR 10.7 (230s)
+fit diff10 rep 16: W=13.62 p=0.092 h2 z EAS 7.3 EUR 9.1 (231s)
+fit diff10 rep 17: W=25.56 p=0.001 h2 z EAS 8.6 EUR 8.7 (230s)
+fit diff10 rep 18: W=15.86 p=0.044 h2 z EAS 10.4 EUR 8.7 (232s)
+fit diff10 rep 19: W=16.27 p=0.039 h2 z EAS 10.7 EUR 7.2 (240s)
+fit diff10 resume exit 0

@@ -1,0 +1,42 @@
+Sample name	diagnosis	n_diag	age_group	age	sex	cells
+A26 (386C)	Healthy adult	1	Adult	70-75	F	10120
+A30 (398B)	Healthy adult	1	Adult	20-25	F	4667
+A32 (411C)	Healthy adult	1	Adult	25-30	M	21940
+A33 (414C)	Healthy adult	1	Adult	20-25	M	37472
+A34 (417C)	Healthy adult	1	Adult	65-70	M	27502
+A38 (432C)	Healthy adult	1	Adult	60-65	F	8236
+A39 (440C)	Healthy adult	1	Adult	45-50	M	14430
+BRC2026	fetal	1	First trim	8.4Wk	F	11785
+BRC2029	fetal	1	First trim	6.1Wk	F	7752
+BRC2043	fetal	1	First trim	10.2Wk	M	8227
+BRC2046	fetal	1	First trim	6.7Wk	M	7570
+BRC2049	fetal	1	First trim	6.9Wk	M	5664
+BRC2119	fetal	1	First trim	7.9Wk	F	7507
+BRC2121	fetal	1	First trim	9.2Wk	M	14716
+BRC2133	fetal	1	First trim	9.9Wk	F	23607
+BRC2134	fetal	1	First trim	10Wk	M	17193
+BRC2258	fetal	1	First trim	11.1Wk	M	34177
+BRC2259	fetal	1	First trim	7.4Wk	F	11026
+F66	fetal	1	Second trim	15Wk	M	16267
+F67	fetal	1	Second trim	12Wk	F	8379
+F72	fetal	1	Second trim	16Wk	F	27859
+F73	fetal	1	Second trim	15Wk	F	31569
+F78	fetal	1	Second trim	17Wk	M	14046
+T017	Pediatric Crohn Disease	1	Pediatric_IBD	13	M	4602
+T019	Pediatric Crohn Disease	1	Pediatric_IBD	12	M	3558
+T024	Pediatric healthy	1	Pediatric	12	F	2354
+T036	Pediatric healthy	1	Pediatric	4	M	5504
+T036NEG	Pediatric healthy	1	Pediatric	4	M	3406
+T036POS	Pediatric healthy	1	Pediatric	4	M	1788
+T044	Pediatric healthy	1	Pediatric	10	F	2312
+T057	Pediatric healthy	1	Pediatric	6	M	4084
+T110NEG	Pediatric healthy	1	Pediatric	4	M	2391
+T110POS	Pediatric healthy	1	Pediatric	4	M	2081
+T160	Pediatric healthy	1	Pediatric	10	F	1761
+T161	Pediatric healthy	1	Pediatric	4	M	1353
+T176	Pediatric Crohn Disease	1	Pediatric_IBD	11	M	6680
+T182	Pediatric healthy	1	Pediatric	9	M	2560
+T189	Pediatric Crohn Disease	1	Pediatric_IBD	13	F	1072
+T197	Pediatric Crohn Disease	1	Pediatric_IBD	9	M	4799
+T202	Pediatric Crohn Disease	1	Pediatric_IBD	12	F	4084
+T203	Pediatric Crohn Disease	1	Pediatric_IBD	14	M	2369

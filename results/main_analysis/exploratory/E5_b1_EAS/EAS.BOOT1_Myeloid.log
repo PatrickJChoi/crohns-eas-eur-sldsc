@@ -1,0 +1,44 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 3.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--out C:\src\Crohns\results\phase5_R21\exploratory\E5_b1_EAS\EAS.BOOT1_Myeloid \
+--h2 C:\src\Crohns\data\processed\r21\real\EAS.sumstats.gz \
+--ref-ld-chr C:\src\Crohns\data\processed\r21\ref\1000G_Phase3_EAS_baseline_v1.2_ldscores\baseline.,C:\src\Crohns\data\processed\r21\annot\EAS\control_100kb\control_100kb.,C:\src\Crohns\data\processed\r21\annot_exploratory\EAS\BOOT1_Myeloid\BOOT1_Myeloid. \
+--w-ld-chr C:\src\Crohns\data\processed\r21\ref\1000G_Phase3_EAS_weights_hm3_no_MHC\1000G_Phase3_EAS_weights_hm3_no_MHC\weights.EAS.hm3_noMHC. \
+--print-coefficients  \
+--print-delete-vals  
+
+Beginning analysis at Fri Oct  9 01:11:51 2026
+Reading summary statistics from C:\src\Crohns\data\processed\r21\real\EAS.sumstats.gz ...
+Read summary statistics for 994292 SNPs.
+Reading reference panel LD Score from C:\src\Crohns\data\processed\r21\ref\1000G_Phase3_EAS_baseline_v1.2_ldscores\baseline.,C:\src\Crohns\data\processed\r21\annot\EAS\control_100kb\control_100kb.,C:\src\Crohns\data\processed\r21\annot_exploratory\EAS\BOOT1_Myeloid\BOOT1_Myeloid.[1-22] ... (ldscore_fromlist)
+Read reference panel LD Scores for 1071448 SNPs.
+Removing partitioned LD Scores with zero variance.
+Reading regression weight LD Score from C:\src\Crohns\data\processed\r21\ref\1000G_Phase3_EAS_weights_hm3_no_MHC\1000G_Phase3_EAS_weights_hm3_no_MHC\weights.EAS.hm3_noMHC.[1-22] ... (ldscore_fromlist)
+Read regression weight LD Scores for 1071448 SNPs.
+After merging with reference panel LD, 986563 SNPs remain.
+After merging with regression SNP LD, 986563 SNPs remain.
+Removed 93 SNPs with chi^2 > 80 (986470 SNPs remain)
+Printing block jackknife delete values to C:\src\Crohns\results\phase5_R21\exploratory\E5_b1_EAS\EAS.BOOT1_Myeloid.delete.
+Printing partitioned block jackknife delete values to C:\src\Crohns\results\phase5_R21\exploratory\E5_b1_EAS\EAS.BOOT1_Myeloid.part_delete.
+Total Observed scale h2: 0.8472 (0.0704)
+Categories: baseL2_0 Coding_UCSC.bedL2_0 Coding_UCSC.extend.500.bedL2_0 Conserved_LindbladToh.bedL2_0 Conserved_LindbladToh.extend.500.bedL2_0 CTCF_Hoffman.bedL2_0 CTCF_Hoffman.extend.500.bedL2_0 DGF_ENCODE.bedL2_0 DGF_ENCODE.extend.500.bedL2_0 DHS_peaks_Trynka.bedL2_0 DHS_Trynka.bedL2_0 DHS_Trynka.extend.500.bedL2_0 Enhancer_Andersson.bedL2_0 Enhancer_Andersson.extend.500.bedL2_0 Enhancer_Hoffman.bedL2_0 Enhancer_Hoffman.extend.500.bedL2_0 FetalDHS_Trynka.bedL2_0 FetalDHS_Trynka.extend.500.bedL2_0 H3K27ac_Hnisz.bedL2_0 H3K27ac_Hnisz.extend.500.bedL2_0 H3K27ac_PGC2.bedL2_0 H3K27ac_PGC2.extend.500.bedL2_0 H3K4me1_peaks_Trynka.bedL2_0 H3K4me1_Trynka.bedL2_0 H3K4me1_Trynka.extend.500.bedL2_0 H3K4me3_peaks_Trynka.bedL2_0 H3K4me3_Trynka.bedL2_0 H3K4me3_Trynka.extend.500.bedL2_0 H3K9ac_peaks_Trynka.bedL2_0 H3K9ac_Trynka.bedL2_0 H3K9ac_Trynka.extend.500.bedL2_0 Intron_UCSC.bedL2_0 Intron_UCSC.extend.500.bedL2_0 PromoterFlanking_Hoffman.bedL2_0 PromoterFlanking_Hoffman.extend.500.bedL2_0 Promoter_UCSC.bedL2_0 Promoter_UCSC.extend.500.bedL2_0 Repressed_Hoffman.bedL2_0 Repressed_Hoffman.extend.500.bedL2_0 SuperEnhancer_Hnisz.bedL2_0 SuperEnhancer_Hnisz.extend.500.bedL2_0 TFBS_ENCODE.bedL2_0 TFBS_ENCODE.extend.500.bedL2_0 Transcribed_Hoffman.bedL2_0 Transcribed_Hoffman.extend.500.bedL2_0 TSS_Hoffman.bedL2_0 TSS_Hoffman.extend.500.bedL2_0 UTR_3_UCSC.bedL2_0 UTR_3_UCSC.extend.500.bedL2_0 UTR_5_UCSC.bedL2_0 UTR_5_UCSC.extend.500.bedL2_0 WeakEnhancer_Hoffman.bedL2_0 WeakEnhancer_Hoffman.extend.500.bedL2_0 control_100kbL2_1 BOOT1_MyeloidL2_2
+Observed scale h2: -6.8799e-01 -2.2565e-02  4.4339e-02  7.6268e-02  3.0344e-01  2.9515e-02 -1.2853e-01  5.4186e-01 -8.6496e-02  2.8249e-01 -7.9708e-01  7.8916e-03  1.2377e-01  1.5568e-01 -1.3330e-01  8.5858e-02  5.8495e-02 -1.0428e-01  9.0592e-01 -7.4681e-01  5.5936e-01 -5.2660e-01  2.7425e-01 -7.0146e-02 -1.5771e-01  2.1750e-03  2.6003e-01 -1.8245e-01 -1.7982e-02 -6.1364e-01  2.8530e-01 -7.1768e-01  6.1759e-01 -7.8138e-02  8.4888e-04 -3.3909e-02  1.9164e-02  4.8948e-01 -1.9209e-01 -3.3529e+00  3.4760e+00  9.3530e-02  3.2472e-01  8.9940e-02 -3.7958e-02  6.5764e-02  2.0376e-01 -2.2765e-02  2.3593e-02 -8.9781e-04 -8.2001e-03  1.9908e-02 -1.3705e-02  1.0269e-01  5.7441e-02
+Observed scale h2 SE: 0.4763 0.0524 0.0802 0.0613 0.1383 0.0844 0.1191 0.2334 0.3147 0.2572 0.3262 0.3814 0.052  0.0804 0.1384 0.1761 0.1999 0.219  0.5894 0.6108 0.4356 0.469  0.1764 0.3991 0.4017 0.1285 0.2327 0.2403 0.1147 0.2784 0.2656 1.8664 1.9151 0.0457 0.0701 0.226  0.255  0.3027 0.3271 1.5131 1.5339 0.2088 0.2937 0.2282 0.3184 0.1067 0.1413 0.0421 0.0512 0.0239 0.0501 0.0806 0.1063 0.0702 0.026
+Proportion of SNPs: 0.0838 0.0012 0.0053 0.0021 0.0276 0.002  0.0059 0.0113 0.045  0.0092 0.0139 0.0415 0.0004 0.0016 0.0035 0.0075 0.007  0.0237 0.0326 0.0352 0.0225 0.028  0.0141 0.0354 0.0507 0.0035 0.0111 0.0213 0.0032 0.0105 0.0192 0.0325 0.0333 0.0007 0.0028 0.0039 0.0048 0.0386 0.0603 0.014  0.0143 0.0109 0.0285 0.0288 0.0638 0.0015 0.0029 0.0009 0.0022 0.0005 0.0022 0.0017 0.0074 0.0538 0.0098
+Proportion of h2g: -8.1207e-01 -2.6635e-02  5.2335e-02  9.0024e-02  3.5816e-01  3.4839e-02 -1.5171e-01  6.3959e-01 -1.0210e-01  3.3344e-01 -9.4083e-01  9.3149e-03  1.4609e-01  1.8376e-01 -1.5734e-01  1.0134e-01  6.9044e-02 -1.2309e-01  1.0693e+00 -8.8150e-01  6.6024e-01 -6.2157e-01  3.2371e-01 -8.2797e-02 -1.8615e-01  2.5673e-03  3.0693e-01 -2.1535e-01 -2.1225e-02 -7.2431e-01  3.3675e-01 -8.4712e-01  7.2898e-01 -9.2231e-02  1.0020e-03 -4.0025e-02  2.2621e-02  5.7776e-01 -2.2674e-01 -3.9576e+00  4.1029e+00  1.1040e-01  3.8328e-01  1.0616e-01 -4.4804e-02  7.7624e-02  2.4050e-01 -2.6870e-02  2.7848e-02 -1.0597e-03 -9.6790e-03  2.3499e-02 -1.6177e-02  1.2121e-01  6.7801e-02
+Enrichment: -9.6919e+00 -2.2393e+01  9.8433e+00  4.3763e+01  1.2959e+01  1.7421e+01 -2.5520e+01  5.6521e+01 -2.2667e+00  3.6268e+01 -6.7847e+01  2.2438e-01  4.0648e+02  1.1581e+02 -4.5067e+01  1.3534e+01  9.8627e+00 -5.1899e+00  3.2817e+01 -2.5036e+01  2.9400e+01 -2.2179e+01  2.2944e+01 -2.3384e+00 -3.6739e+00  7.4300e-01  2.7654e+01 -1.0105e+01 -6.6507e+00 -6.9141e+01  1.7529e+01 -2.6056e+01  2.1898e+01 -1.3364e+02  3.6250e-01 -1.0353e+01  4.7597e+00  1.4960e+01 -3.7586e+00 -2.8242e+02  2.8734e+02  1.0085e+01  1.3440e+01  3.6803e+00 -7.0206e-01  5.2229e+01  8.3785e+01 -2.8724e+01  1.2593e+01 -2.3274e+00 -4.3128e+00  1.3460e+01 -2.1834e+00  2.2511e+00  6.8871e+00
+Coefficients: -1.2580e-07 -2.9065e-07  1.2776e-07  5.6802e-07  1.6821e-07  2.2611e-07 -3.3124e-07  7.3361e-07 -2.9420e-08  4.7073e-07 -8.8062e-07  2.9124e-09  5.2759e-06  1.5032e-06 -5.8495e-07  1.7566e-07  1.2801e-07 -6.7363e-08  4.2594e-07 -3.2495e-07  3.8160e-07 -2.8787e-07  2.9780e-07 -3.0351e-08 -4.7685e-08  9.6437e-09  3.5894e-07 -1.3116e-07 -8.6323e-08 -8.9742e-07  2.2751e-07 -3.3820e-07  2.8422e-07 -1.7345e-06  4.7051e-09 -1.3437e-07  6.1778e-08  1.9417e-07 -4.8785e-08 -3.6657e-06  3.7296e-06  1.3090e-07  1.7445e-07  4.7769e-08 -9.1124e-09  6.7790e-07  1.0875e-06 -3.7282e-07  1.6346e-07 -3.0209e-08 -5.5979e-08  1.7470e-07 -2.8340e-08  2.9219e-08  8.9391e-08
+Coefficient SE: 8.7093e-08 6.7502e-07 2.3102e-07 4.5630e-07 7.6685e-08 6.4666e-07 3.0692e-07 3.1600e-07 1.0705e-07 4.2856e-07 3.6042e-07 1.4076e-07 2.2148e-06 7.7662e-07 6.0718e-07 3.6030e-07 4.3754e-07 1.4148e-07 2.7713e-07 2.6576e-07 2.9714e-07 2.5640e-07 1.9150e-07 1.7267e-07 1.2146e-07 5.6971e-07 3.2119e-07 1.7274e-07 5.5058e-07 4.0710e-07 2.1181e-07 8.7952e-07 8.8134e-07 1.0155e-06 3.8852e-07 8.9562e-07 8.2186e-07 1.2006e-07 8.3071e-08 1.6542e-06 1.6458e-06 2.9227e-07 1.5777e-07 1.2122e-07 7.6438e-08 1.1000e-06 7.5400e-07 6.8894e-07 3.5490e-07 8.0549e-07 3.4202e-07 7.0723e-07 2.1982e-07 1.9973e-08 4.0510e-08
+Lambda GC: 1.1428
+Mean Chi^2: 1.2266
+Intercept: 0.9973 (0.0094)
+Ratio < 0 (usually indicates GC correction).
+Analysis finished at Fri Oct  9 01:12:19 2026
+Total time elapsed: 28.31s

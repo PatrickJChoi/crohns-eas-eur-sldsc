@@ -1,0 +1,3 @@
+reference genotypes loaded in 169s
+pilot rep 0: W=2.93 p=0.939 h2 z EAS 5.7 EUR 9.8 (1121s)
+exit 0

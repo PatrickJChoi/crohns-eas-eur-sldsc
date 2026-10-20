@@ -1,0 +1,32 @@
+{
+  "title": "Code and results: Crohn's disease heritability by gut cell lineage in East Asian and European ancestry (pre-registered S-LDSC study)",
+  "description": "Code, logs and result files for a pre-registered stratified LD score regression (S-LDSC / LDSC-SEG) study asking whether Crohn's disease heritability is distributed differently across gut cell lineages in East Asian and European ancestry. Primary result: joint Wald test of East Asian minus European differences in tau* across 8 lineages, W = 4.04, df = 8, p = 0.853 (no evidence of an ancestry difference). Pre-registration: doi:10.17605/OSF.IO/HQ4A8. All input data are public; see README for sources.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Choi, Patrick",
+      "affiliation": "Department of Integrative Biology, University of South Florida",
+      "orcid": "0009-0004-1051-2074"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Crohn's disease",
+    "stratified LD score regression",
+    "LDSC-SEG",
+    "heritability",
+    "cross-ancestry",
+    "East Asian",
+    "European",
+    "single-cell",
+    "gut cell atlas",
+    "pre-registration"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.17605/OSF.IO/HQ4A8",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    }
+  ]
+}

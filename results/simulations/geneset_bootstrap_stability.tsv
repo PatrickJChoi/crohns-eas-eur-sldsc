@@ -1,0 +1,9 @@
+	median_jaccard	p05	p95
+B cells	0.782	0.697	0.851
+Endothelial	0.788	0.708	0.854
+Epithelial	0.865	0.815	0.903
+Mesenchymal	0.802	0.738	0.855
+Myeloid	0.754	0.667	0.838
+Neuronal	0.658	0.499	0.828
+Plasma cells	0.748	0.681	0.821
+T cells	0.762	0.675	0.825

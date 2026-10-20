@@ -1,0 +1,7 @@
+*.py text eol=lf
+*.md text eol=lf
+*.tsv text eol=lf
+# Data, results and registered files are stored byte-for-byte (checksums/manifests refer to exact bytes); last line wins
+data/** -text
+results/** -text
+docs/osf_registration/** -text

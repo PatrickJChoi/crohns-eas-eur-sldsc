@@ -1,0 +1,44 @@
+*********************************************************************
+* LD Score Regression (LDSC)
+* Version 3.0.1
+* (C) 2014-2019 Brendan Bulik-Sullivan and Hilary Finucane
+* Broad Institute of MIT and Harvard / MIT Department of Mathematics
+* GNU General Public License v3
+*********************************************************************
+Call: 
+./ldsc.py \
+--out C:\src\Crohns\results\phase5_R21\exploratory\E5_b2_EUR\EUR.BOOT2_Endothelial \
+--h2 C:\src\Crohns\data\processed\r21\real\EUR_deLange.sumstats.gz \
+--ref-ld-chr C:\src\Crohns\data\processed\r21\ref\1000G_Phase3_baseline_v1.2_ldscores\baseline_v1.2\baseline.,C:\src\Crohns\data\processed\r21\annot\EUR\control_100kb\control_100kb.,C:\src\Crohns\data\processed\r21\annot_exploratory\EUR\BOOT2_Endothelial\BOOT2_Endothelial. \
+--w-ld-chr C:\src\Crohns\data\processed\r21\ref\1000G_Phase3_weights_hm3_no_MHC\1000G_Phase3_weights_hm3_no_MHC\weights.hm3_noMHC. \
+--print-coefficients  \
+--print-delete-vals  
+
+Beginning analysis at Fri Oct  9 01:15:47 2026
+Reading summary statistics from C:\src\Crohns\data\processed\r21\real\EUR_deLange.sumstats.gz ...
+Read summary statistics for 1152942 SNPs.
+Reading reference panel LD Score from C:\src\Crohns\data\processed\r21\ref\1000G_Phase3_baseline_v1.2_ldscores\baseline_v1.2\baseline.,C:\src\Crohns\data\processed\r21\annot\EUR\control_100kb\control_100kb.,C:\src\Crohns\data\processed\r21\annot_exploratory\EUR\BOOT2_Endothelial\BOOT2_Endothelial.[1-22] ... (ldscore_fromlist)
+Read reference panel LD Scores for 1190321 SNPs.
+Removing partitioned LD Scores with zero variance.
+Reading regression weight LD Score from C:\src\Crohns\data\processed\r21\ref\1000G_Phase3_weights_hm3_no_MHC\1000G_Phase3_weights_hm3_no_MHC\weights.hm3_noMHC.[1-22] ... (ldscore_fromlist)
+Read regression weight LD Scores for 1187349 SNPs.
+After merging with reference panel LD, 1152942 SNPs remain.
+After merging with regression SNP LD, 1150097 SNPs remain.
+Removed 384 SNPs with chi^2 > 80 (1149713 SNPs remain)
+Printing block jackknife delete values to C:\src\Crohns\results\phase5_R21\exploratory\E5_b2_EUR\EUR.BOOT2_Endothelial.delete.
+Printing partitioned block jackknife delete values to C:\src\Crohns\results\phase5_R21\exploratory\E5_b2_EUR\EUR.BOOT2_Endothelial.part_delete.
+Total Observed scale h2: 0.5088 (0.0363)
+Categories: baseL2_0 Coding_UCSCL2_0 Coding_UCSC.extend.500L2_0 Conserved_LindbladTohL2_0 Conserved_LindbladToh.extend.500L2_0 CTCF_HoffmanL2_0 CTCF_Hoffman.extend.500L2_0 DGF_ENCODEL2_0 DGF_ENCODE.extend.500L2_0 DHS_peaks_TrynkaL2_0 DHS_TrynkaL2_0 DHS_Trynka.extend.500L2_0 Enhancer_AnderssonL2_0 Enhancer_Andersson.extend.500L2_0 Enhancer_HoffmanL2_0 Enhancer_Hoffman.extend.500L2_0 FetalDHS_TrynkaL2_0 FetalDHS_Trynka.extend.500L2_0 H3K27ac_HniszL2_0 H3K27ac_Hnisz.extend.500L2_0 H3K27ac_PGC2L2_0 H3K27ac_PGC2.extend.500L2_0 H3K4me1_peaks_TrynkaL2_0 H3K4me1_TrynkaL2_0 H3K4me1_Trynka.extend.500L2_0 H3K4me3_peaks_TrynkaL2_0 H3K4me3_TrynkaL2_0 H3K4me3_Trynka.extend.500L2_0 H3K9ac_peaks_TrynkaL2_0 H3K9ac_TrynkaL2_0 H3K9ac_Trynka.extend.500L2_0 Intron_UCSCL2_0 Intron_UCSC.extend.500L2_0 PromoterFlanking_HoffmanL2_0 PromoterFlanking_Hoffman.extend.500L2_0 Promoter_UCSCL2_0 Promoter_UCSC.extend.500L2_0 Repressed_HoffmanL2_0 Repressed_Hoffman.extend.500L2_0 SuperEnhancer_HniszL2_0 SuperEnhancer_Hnisz.extend.500L2_0 TFBS_ENCODEL2_0 TFBS_ENCODE.extend.500L2_0 Transcr_HoffmanL2_0 Transcr_Hoffman.extend.500L2_0 TSS_HoffmanL2_0 TSS_Hoffman.extend.500L2_0 UTR_3_UCSCL2_0 UTR_3_UCSC.extend.500L2_0 UTR_5_UCSCL2_0 UTR_5_UCSC.extend.500L2_0 WeakEnhancer_HoffmanL2_0 WeakEnhancer_Hoffman.extend.500L2_0 control_100kbL2_1 BOOT2_EndothelialL2_2
+Observed scale h2: -0.4317 -0.0028  0.1007  0.0374  0.191  -0.024  -0.0903  0.41    0.1193 -0.021  -0.4967 -0.1213  0.0384  0.1248 -0.0772  0.1262  0.0329  0.2419 -0.3176  0.3121  0.2453 -0.1933  0.2107 -0.211   0.1112 -0.0379  0.3146 -0.1938 -0.0128 -0.2532  0.0012 -0.1798  0.0679 -0.0197 -0.038  -0.2446  0.2528 -0.1973  0.304  -0.6513  0.7527  0.1539 -0.0799 -0.0582  0.1814  0.0186  0.0956 -0.0281  0.0263 -0.0053 -0.0168  0.0584 -0.0822  0.0774 -0.0121
+Observed scale h2 SE: 0.2653 0.0234 0.0366 0.031  0.077  0.0452 0.0652 0.1122 0.1638 0.1205 0.1803 0.1783 0.021  0.0421 0.0664 0.0882 0.0953 0.1178 0.2772 0.2966 0.2436 0.2566 0.0986 0.211  0.2077 0.0614 0.1199 0.1225 0.0553 0.1088 0.1206 1.191  1.2189 0.0248 0.0395 0.1065 0.115  0.1686 0.1903 0.6613 0.6662 0.1049 0.1328 0.1476 0.209  0.0539 0.0604 0.0244 0.0354 0.0121 0.0236 0.035  0.0592 0.045  0.0122
+Proportion of SNPs: 0.0835 0.0012 0.0053 0.0021 0.0276 0.002  0.0059 0.0113 0.045  0.0092 0.0138 0.0414 0.0004 0.0016 0.0035 0.0075 0.007  0.0237 0.0325 0.0351 0.0224 0.028  0.0141 0.0354 0.0506 0.0035 0.0111 0.0213 0.0032 0.0105 0.0192 0.0324 0.0332 0.0007 0.0028 0.0039 0.0048 0.0384 0.06   0.014  0.0142 0.0109 0.0285 0.0288 0.0637 0.0015 0.0029 0.0009 0.0022 0.0005 0.0022 0.0017 0.0074 0.0538 0.0118
+Proportion of h2g: -0.8485 -0.0056  0.1979  0.0736  0.3754 -0.0473 -0.1775  0.8058  0.2344 -0.0412 -0.9762 -0.2384  0.0755  0.2453 -0.1517  0.248   0.0647  0.4754 -0.6241  0.6133  0.482  -0.3799  0.4141 -0.4147  0.2186 -0.0744  0.6182 -0.3809 -0.0251 -0.4976  0.0024 -0.3534  0.1334 -0.0388 -0.0746 -0.4807  0.4967 -0.3877  0.5974 -1.28    1.4792  0.3024 -0.157  -0.1144  0.3566  0.0366  0.1879 -0.0552  0.0517 -0.0105 -0.033   0.1147 -0.1615  0.1521 -0.0238
+Enrichment: -1.0156e+01 -4.6885e+00  3.7224e+01  3.5706e+01  1.3609e+01 -2.3754e+01 -3.0006e+01  7.1252e+01  5.2130e+00 -4.4876e+00 -7.0495e+01 -5.7561e+00  2.0950e+02  1.5434e+02 -4.3321e+01  3.3049e+01  9.2575e+00  2.0093e+01 -1.9202e+01  1.7458e+01  2.1487e+01 -1.3566e+01  2.9354e+01 -1.1722e+01  4.3203e+00 -2.1540e+01  5.5681e+01 -1.7875e+01 -7.8676e+00 -4.7535e+01  1.2715e-01 -1.0917e+01  4.0251e+00 -5.6089e+01 -2.6932e+01 -1.2417e+02  1.0444e+02 -1.0088e+01  9.9525e+00 -9.1625e+01  1.0391e+02  2.7640e+01 -5.5107e+00 -3.9672e+00  5.6013e+00  2.4634e+01  6.5506e+01 -5.9163e+01  2.3422e+01 -2.2972e+01 -1.4706e+01  6.5695e+01 -2.1783e+01  2.8271e+00 -2.0133e+00
+Coefficients: -7.2426e-08 -3.3437e-08  2.6546e-07  2.5464e-07  9.7054e-08 -1.6940e-07 -2.1399e-07  5.0813e-07  3.7177e-08 -3.2004e-08 -5.0274e-07 -4.1050e-08  1.4940e-06  1.1007e-06 -3.0895e-07  2.3569e-07  6.6021e-08  1.4329e-07 -1.3694e-07  1.2450e-07  1.5324e-07 -9.6745e-08  2.0934e-07 -8.3595e-08  3.0810e-08 -1.5361e-07  3.9709e-07 -1.2748e-07 -5.6108e-08 -3.3900e-07  9.0680e-10 -7.7853e-08  2.8705e-08 -4.0000e-07 -1.9206e-07 -8.8552e-07  7.4485e-07 -7.1941e-08  7.0977e-08 -6.5343e-07  7.4107e-07  1.9711e-07 -3.9300e-08 -2.8293e-08  3.9946e-08  1.7568e-07  4.6716e-07 -4.2192e-07  1.6703e-07 -1.6383e-07 -1.0487e-07  4.6851e-07 -1.5535e-07  2.0162e-08 -1.4358e-08
+Coefficient SE: 4.4510e-08 2.7551e-07 9.6603e-08 2.1047e-07 3.9117e-08 3.1810e-07 1.5441e-07 1.3908e-07 5.1044e-08 1.8385e-07 1.8248e-07 6.0319e-08 8.1794e-07 3.7122e-07 2.6564e-07 1.6472e-07 1.9113e-07 6.9759e-08 1.1951e-07 1.1835e-07 1.5221e-07 1.2844e-07 9.7922e-08 8.3589e-08 5.7512e-08 2.4908e-07 1.5141e-07 8.0564e-08 2.4284e-07 1.4561e-07 8.8037e-08 5.1565e-07 5.1531e-07 5.0307e-07 1.9971e-07 3.8539e-07 3.3903e-07 6.1483e-08 4.4440e-08 6.6347e-07 6.5597e-07 1.3437e-07 6.5306e-08 7.1750e-08 4.6011e-08 5.0812e-07 2.9512e-07 3.6586e-07 2.2476e-07 3.7063e-07 1.4717e-07 2.8076e-07 1.1198e-07 1.1727e-08 1.4452e-08
+Lambda GC: 1.2531
+Mean Chi^2: 1.4012
+Intercept: 1.0702 (0.0126)
+Ratio: 0.1749 (0.0313)
+Analysis finished at Fri Oct  9 01:16:23 2026
+Total time elapsed: 36.0s

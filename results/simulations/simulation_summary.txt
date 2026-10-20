@@ -1,0 +1,44 @@
+PIPELINE-VALIDATION SIMULATIONS (registered doi:10.17605/OSF.IO/HQ4A8)
+Simulated data only; no real GWAS association result is used.
+
+[null] 20 replicates; mean LDSC h2 z: EAS 9.1, EUR 8.9
+  primary Wald test rejects at 0.05: 2/20 = 0.100 (95% CI 0.012-0.317); KS test of p-value uniformity p = 0.87
+  secondary per-lineage tests (Holm, 0.05): myeloid flagged in 0.00 of reps; any other lineage flagged in 0.10
+  mean tau* EAS: B -0.03  Endo +0.03  Epi -0.01  Mes +0.05  Myel +0.01  Neur +0.01  Plas +0.00  T -0.02
+  mean tau* EUR: B -0.02  Endo +0.02  Epi +0.01  Mes -0.04  Myel -0.00  Neur +0.03  Plas -0.01  T +0.04
+  jackknife calibration, SD of D across reps / mean jackknife SE of D: B 1.13  Endo 0.96  Epi 0.80  Mes 1.15  Myel 1.12  Neur 1.14  Plas 0.93  T 0.91
+
+[shared] 60 replicates; mean LDSC h2 z: EAS 9.0, EUR 8.8
+  primary Wald test rejects at 0.05: 2/60 = 0.033 (95% CI 0.004-0.115); KS test of p-value uniformity p = 0.47
+  secondary per-lineage tests (Holm, 0.05): myeloid flagged in 0.00 of reps; any other lineage flagged in 0.02
+  mean tau* EAS: B +0.05  Endo -0.03  Epi -0.02  Mes -0.03  Myel +0.32  Neur -0.05  Plas +0.03  T +0.32
+  mean tau* EUR: B +0.05  Endo -0.02  Epi -0.04  Mes -0.01  Myel +0.32  Neur -0.04  Plas +0.03  T +0.30
+  jackknife calibration, SD of D across reps / mean jackknife SE of D: B 1.06  Endo 1.08  Epi 0.93  Mes 1.02  Myel 0.97  Neur 0.98  Plas 1.03  T 1.06
+  random gene sets (shuffled labels): Wald rejects 0/60 = 0.000 (95% CI 0.000-0.060); KS p = 0.38
+  random sets mean tau* EAS: R1 +0.03  R2 +0.05  R3 +0.01  R4 +0.03  R5 +0.01  R6 -0.01  R7 +0.04  R8 +0.02   (largest |mean/SE| = 3.8)
+  random sets mean tau* EUR: R1 +0.02  R2 +0.02  R3 -0.01  R4 +0.03  R5 +0.03  R6 +0.01  R7 +0.01  R8 +0.04   (largest |mean/SE| = 2.9)
+
+[diff4] 20 replicates; mean LDSC h2 z: EAS 8.7, EUR 8.3
+  primary Wald test rejects at 0.05: 0/20 = 0.000 (95% CI 0.000-0.168); KS test of p-value uniformity p = 0.35
+  secondary per-lineage tests (Holm, 0.05): myeloid flagged in 0.00 of reps; any other lineage flagged in 0.00
+  mean tau* EAS: B +0.03  Endo -0.08  Epi -0.02  Mes -0.05  Myel +0.32  Neur -0.03  Plas +0.01  T +0.30
+  mean tau* EUR: B +0.06  Endo -0.00  Epi -0.06  Mes -0.01  Myel +0.57  Neur -0.08  Plas +0.05  T +0.29
+  jackknife calibration, SD of D across reps / mean jackknife SE of D: B 0.90  Endo 1.03  Epi 1.01  Mes 0.83  Myel 0.78  Neur 0.97  Plas 1.05  T 1.00
+
+[diff6] 20 replicates; mean LDSC h2 z: EAS 8.6, EUR 8.5
+  primary Wald test rejects at 0.05: 5/20 = 0.250 (95% CI 0.087-0.491); KS test of p-value uniformity p = 0.00
+  secondary per-lineage tests (Holm, 0.05): myeloid flagged in 0.30 of reps; any other lineage flagged in 0.00
+  mean tau* EAS: B +0.07  Endo -0.03  Epi -0.01  Mes +0.00  Myel +0.34  Neur -0.03  Plas +0.01  T +0.29
+  mean tau* EUR: B +0.08  Endo +0.00  Epi -0.05  Mes -0.04  Myel +0.80  Neur -0.08  Plas +0.04  T +0.26
+  jackknife calibration, SD of D across reps / mean jackknife SE of D: B 0.75  Endo 0.87  Epi 0.92  Mes 1.03  Myel 0.95  Neur 0.99  Plas 1.19  T 0.94
+
+[diff10] 20 replicates; mean LDSC h2 z: EAS 9.1, EUR 8.6
+  primary Wald test rejects at 0.05: 15/20 = 0.750 (95% CI 0.509-0.913); KS test of p-value uniformity p = 0.00
+  secondary per-lineage tests (Holm, 0.05): myeloid flagged in 0.95 of reps; any other lineage flagged in 0.05
+  mean tau* EAS: B +0.06  Endo -0.02  Epi -0.03  Mes +0.01  Myel +0.28  Neur -0.04  Plas +0.04  T +0.27
+  mean tau* EUR: B +0.07  Endo -0.04  Epi -0.08  Mes -0.02  Myel +1.00  Neur -0.13  Plas +0.02  T +0.19
+  jackknife calibration, SD of D across reps / mean jackknife SE of D: B 0.89  Endo 0.83  Epi 0.69  Mes 1.15  Myel 0.62  Neur 0.81  Plas 0.91  T 0.81
+
+Pooled scenarios where H0 is true (null + shared): primary test rejects 4/80 = 0.050 (95% CI 0.014-0.123)
+Power of the primary test by mean myeloid difference |D|: shared: |D| 0.00 -> power 0.03; diff4: |D| 0.25 -> power 0.00; diff6: |D| 0.46 -> power 0.25; diff10: |D| 0.72 -> power 0.75
+No planted difference reached 80% power; the minimum detectable difference exceeds 0.72.

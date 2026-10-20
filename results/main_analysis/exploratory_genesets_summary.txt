@@ -1,0 +1,3 @@
+fine_types_top10: 51 of 67 groups retained (>= 100 cells, >= 3 donors); 16,148 expressed genes; 1615 genes per set; dropped: ['CX3CR1+ CD8 Tmem', 'EC cells (TAC1+)', 'FDC', 'LEC3 (ADGRG3+)', 'MAIT cell', 'MMP9+ Inflammatory macrophage', 'Mesothelium (PRG4+)', 'NK T cell', 'T reticular', 'TRGV4 gdT', 'TRGV5/7 gdT', 'cDC1', 'mLN Stroma (FMO2+)', 'myofibroblast', 'myofibroblast (RSPO2+)', 'pDC']
+small_intestine_lineages_top10: 7 of 8 groups retained (>= 200 cells, >= 5 donors); 14,579 expressed genes; 1458 genes per set; dropped: ['Neuronal']
+large_intestine_lineages_top10: 7 of 8 groups retained (>= 200 cells, >= 5 donors); 14,457 expressed genes; 1446 genes per set; dropped: ['Neuronal']

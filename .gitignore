@@ -1,0 +1,21 @@
+# Python environments (rebuild from requirements-*.txt)
+.venv/
+.venv-ldsc/
+# Third-party tool checkout (pinned commit recorded in ENVIRONMENT.md)
+tools/ldsc/
+# Large downloaded data; provenance files stay tracked
+data/raw/**
+!data/raw/**/
+!data/raw/**/PROVENANCE*.tsv
+!data/raw/**/PROVENANCE_NOTES.md
+# Large derived data (rebuilt by code/03, 09, 13); small gene-set tables and manifests stay tracked
+data/processed/ref/
+data/processed/annot/
+data/processed/sim/
+data/processed/*.tsv.gz
+__pycache__/
+data/processed/real/
+data/processed/annot_exploratory/
+data/processed/annot_donorfix/
+data/processed/aligned/
+_project_notes/

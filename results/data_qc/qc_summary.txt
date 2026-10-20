@@ -1,0 +1,20 @@
+HapMap3 regression SNP list (no MHC): 1,217,311
+EAS variants in file: 13,498,082
+EAS cohort-contribution patterns (SHA1 ICH1 KOR1 JPN1; x = contributed): x-xx: 5,856,805; x---: 2,155,754; x-x-: 1,623,470; ---x: 1,457,236; xxxx: 627,590; --x-: 587,717; x--x: 458,880; --xx: 453,634
+EAS variants with an ImmunoChip (ICH1) contribution: 904,586 (6.7%)
+EAS variants lifted to hg19 on the same chromosome: 97.3%
+EAS variants matched to a 1000G EAS rsID with consistent alleles: 8,075,146 (strand-ambiguous A/T or C/G: 15.5%)
+HapMap3 regression SNPs covered by EAS GWAS: 1,066,820 of 1,217,311 (87.6%); of these with an ICH1 contribution: 10.4%
+EAS GWAS allele frequency vs 1000G EAS (non-ambiguous SNPs): all r = 0.982 (n = 6,825,664); HapMap3 regression SNPs r = 0.976 (n = 1,066,818)
+EAS GWAS allele frequency vs 1000G EUR (non-ambiguous SNPs): all r = 0.581 (n = 5,054,612); HapMap3 regression SNPs r = 0.511 (n = 1,061,240)
+EUR variants in file: 9,570,787
+EUR cohort-contribution patterns (IBDseq IIBDGC GWAS3, per column order of per-cohort P values; x = contributed): xxx: 9,570,787
+EUR variants matched to a 1000G EUR rsID with consistent alleles: 8,532,405
+HapMap3 regression SNPs covered by EUR GWAS: 1,152,942 of 1,217,311 (94.7%)
+atlas: 428,469 cells x 33,538 genes; donors ('Sample name'): 41
+donors with >1 diagnosis label: 0
+donors by diagnosis: fetal: 16; Pediatric healthy: 11; Healthy adult: 7; Pediatric Crohn Disease: 7
+cells by diagnosis: fetal: 247,344; Healthy adult: 124,367; Pediatric healthy: 29,594; Pediatric Crohn Disease: 27,164
+postnatal healthy cells: 153,961 from 18 donors; regions: LargeInt: 64,045; SmallInt: 53,944; REC: 18,430; lymph node: 11,164; APD: 6,378
+postnatal healthy cells by lineage (cells / donors): B cells: 13,064/18; Endothelial: 5,773/18; Epithelial: 85,521/18; Mesenchymal: 9,479/18; Myeloid: 2,803/18; Neuronal: 440/17; Plasma cells: 16,588/18; T cells: 20,293/18
+fine cell types among postnatal healthy cells: 89; with >=100 cells and >=3 donors: 65
