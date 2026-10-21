@@ -1,4 +1,4 @@
-# Phase 2 — Study R2-1: feasibility and provenance (2026-09-07)
+# Phase 2 — Study R2-1: feasibility and provenance (2026-10-07)
 
 Question: is Crohn's disease (CD) heritability enriched in the same gut cell types in East Asian (EAS) and European
 (EUR) ancestry?
@@ -62,7 +62,7 @@ of de Lange 2017, so FinnGen is an independent EUR replication.
    per-variant N from the Direction string; or (b) drop ICH1-contributed SNPs from both ancestries' regression sets
    (symmetric). No ICH1-free EAS file is published (checked the IIBDGC download folder).
 2. **No independent EAS validation (cannot be fixed with public data).** No other public full summary statistics
-   exist for EAS CD: GWAS Catalog 2026-09-07 lists GCST90103738 (= KOR1) and studies without full summary statistics.
+   exist for EAS CD: GWAS Catalog 2026-10-07 lists GCST90103738 (= KOR1) and studies without full summary statistics.
    EUR results can be replicated in FinnGen. A difference between ancestries would rest on a single EAS dataset.
 3. **Novelty: moderate.** Liu 2023 already showed cross-ancestry genetic correlation is similar across broad
    functional annotations (not cell types). The unpublished IIBDGC multi-ancestry paper could include a cell-type

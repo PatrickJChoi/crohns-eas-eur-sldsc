@@ -1,4 +1,4 @@
-"""Post hoc check (2026-09-09) of the registered assumption Cov(D) = Cov(A) + Cov(B).
+"""Post hoc check (2026-10-09) of the registered assumption Cov(D) = Cov(A) + Cov(B).
 
 The registered test treats the two datasets' jackknife errors as independent. LDSC's block jackknife also reflects where
 causal variants sit in the genome; if datasets share causal variants, errors correlate and the summed covariance

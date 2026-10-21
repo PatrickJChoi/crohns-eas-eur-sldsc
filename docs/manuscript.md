@@ -8,7 +8,7 @@ ORCID: 0009-0004-1051-2074
 
 Correspondence: patrickchoi@usf.edu
 
-Pre-registration: OSF, doi:10.17605/OSF.IO/HQ4A8 (registered 8 September 2026)
+Pre-registration: OSF, doi:10.17605/OSF.IO/HQ4A8 (registered 8 October 2026)
 
 ---
 
@@ -131,7 +131,7 @@ them. We restricted all datasets to a common SNP set, so that jackknife blocks c
 computed Cov(D) directly from block-aligned values.
 
 ### Data and code availability
-All input data are public (accessions above). Code, logs and result files are archived on Zenodo (version v1.0.0, doi:10.5281/zenodo.23491800) and developed at https://github.com/PatrickJChoi/crohns-eas-eur-sldsc.
+All input data are public (accessions above). Code, logs and result files are archived on Zenodo (doi:10.5281/zenodo.23491799, all versions) and developed at https://github.com/PatrickJChoi/crohns-eas-eur-sldsc.
 The registered plan and data checks are on OSF (doi:10.17605/OSF.IO/HQ4A8).
 
 ## Results

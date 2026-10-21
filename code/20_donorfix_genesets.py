@@ -1,4 +1,4 @@
-"""Donor-corrected Step A (post hoc correction, 2026-09-09; reported ALONGSIDE the
+"""Donor-corrected Step A (post hoc correction, 2026-10-09; reported ALONGSIDE the
 registered run, never replacing it).
 
 The registered Step A (code/05) used the atlas field `Sample name` as the donor. Two children appear under several

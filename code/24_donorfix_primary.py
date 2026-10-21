@@ -1,4 +1,4 @@
-"""Donor-corrected Steps D-E (post hoc correction, 2026-09-09; reported ALONGSIDE the
+"""Donor-corrected Steps D-E (post hoc correction, 2026-10-09; reported ALONGSIDE the
 registered result, never replacing it).
 
 Same models and tests as the registered primary run (code/13): baseline v1.2 + control + one lineage per model,

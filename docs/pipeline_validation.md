@@ -1,4 +1,4 @@
-# Pipeline validation on simulated data (2026-09-08)
+# Pipeline validation on simulated data (2026-10-08)
 
 Registered plan: doi:10.17605/OSF.IO/HQ4A8. Everything here uses **simulated** GWAS results; no real-GWAS association
 result has been computed. Numbers: `results/simulations/simulation_summary.txt` (from `code/12_simulation_summary.py`), per-
@@ -61,7 +61,7 @@ more than twice the size of the planted enrichment itself (≈0.3). The single-l
   would often be missed. Per the registered interpretation table, a null is reported as "no evidence of a difference",
   with these detectable sizes stated.
 
-*Revised 2026-09-09 after the independent review of the results (wording only; numbers unchanged).*
+*Revised 2026-10-09 after the independent review of the results (wording only; numbers unchanged).*
 
 ## Limitations of the simulations
 Block-diagonal LD from ~500 reference genomes per ancestry; enrichment planted only through the lineage and control gene

@@ -28,7 +28,7 @@ Not applicable.
 Registration prior to analysis of the data.
 
 ## Explanation of existing data
-All data are public and were downloaded on 2026-09-07 (provenance and checksums in 3_code_and_environment.zip). Before registration we only checked variant identifiers, alleles, allele frequencies, which cohorts contributed each variant, and single-cell metadata (2_data_feasibility_R21.md). Published SNP-heritability values from Liu et al. 2023 were read in the paper. No association statistic was summarised by us.
+All data are public and were downloaded on 2026-10-07 (provenance and checksums in 3_code_and_environment.zip). Before registration we only checked variant identifiers, alleles, allele frequencies, which cohorts contributed each variant, and single-cell metadata (2_data_feasibility_R21.md). Published SNP-heritability values from Liu et al. 2023 were read in the paper. No association statistic was summarised by us.
 
 ## Data collection procedures
 No new data are collected. Sources, accessions and download scripts: 2_data_feasibility_R21.md and 3_code_and_environment.zip.

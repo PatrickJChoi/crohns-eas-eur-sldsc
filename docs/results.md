@@ -1,4 +1,4 @@
-# Results (2026-09-09; revised after independent review)
+# Results (2026-10-09; revised after independent review)
 
 **Question (registered, doi:10.17605/OSF.IO/HQ4A8):** is Crohn's disease (CD) heritability distributed differently across
 postnatal gut cell lineages in East Asian (EAS) and European (EUR) ancestry?
@@ -174,7 +174,7 @@ EAS vs EUR on the common SNPs, direct (aligned-block) intervals (post hoc):
   |z| = 1.79. EAS tau* tends to be lower than EUR tau* for T-cell types (e.g., T cells D = -0.15, 95% CI -0.40 to
   +0.10); this is not significant and the T-cell estimates are correlated, so it is not a finding.
 
-## Post hoc follow-ups after independent review (2026-09-09), labelled post hoc
+## Post hoc follow-ups after independent review (2026-10-09), labelled post hoc
 - **Donor-corrected rerun (T8).** With 15 true donors: primary W = 2.16, p = 0.976; validation (i) p = 0.477,
   validation (ii) p = 0.233. Per-lineage tau* change by at most 0.044 in EAS and de Lange and by up to 0.10 in FinnGen (B cells). Same conclusion.
 - **Aligned-block check of the registered covariance assumption (T9).** On 950,331 SNPs common to all three datasets
@@ -188,7 +188,7 @@ EAS vs EUR on the common SNPs, direct (aligned-block) intervals (post hoc):
 - **IIBDGC readme archived** (data/raw/gwas/IIBDGC_IBD_EAS_sumstats_readme.sst.txt, SHA-256 recorded): it states
   the Direction cohort order SHA1, ICH1, KOR1, JPN1 used for per-variant effective N.
 
-## Deviations and clarifications (logged in DECISIONS.md, including entries added 2026-09-09 after the review)
+## Deviations and clarifications (logged in DECISIONS.md, including entries added 2026-10-09 after the review)
 1. Step A used sample names as donors (implementation error; corrected rerun reported alongside, T8).
 2. Step C adds a P column computed from Z because this LDSC version's munge step requires one (format only).
 3. Under the registered "munge defaults", munge removed 72,526 EAS SNPs (6.8%) with effective N < 9,669 (variants
@@ -200,7 +200,7 @@ EAS vs EUR on the common SNPs, direct (aligned-block) intervals (post hoc):
 6. Exploratory 1: the registered text says "the 65 fine cell types"; that count came from feasibility-stage metadata without Step
    A's cell filters. Applying the registered rule (>= 100 cells, >= 3 donors) after Step A's filters gives 51 (the
    donor count used the same sample-name error as Step A).
-7. Exploratory 3 (UC): new downloads on 2026-09-09 (code/15; EAS UC MD5-verified). EAS UC variants were matched to 1000G
+7. Exploratory 3 (UC): new downloads on 2026-10-09 (code/15; EAS UC MD5-verified). EAS UC variants were matched to 1000G
    through the identifier table built from the CD file (same cohorts and positions). UC cohort sizes from Liu 2023
    Methods (SHA1 2,400; KOR1 1,569; JPN1 1,769; ICH1 1,124 UC cases; same controls as CD). Step C gained optional
    cohort-size and effective-N arguments; defaults (used for CD) are unchanged.

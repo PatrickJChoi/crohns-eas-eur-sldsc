@@ -115,7 +115,7 @@ def main():
              f"{z[i]:+.2f}"] for i in order]
     table(pd.DataFrame(rows, columns=["fine type", "tau* EAS (SE)", "tau* EUR (SE)", "z of difference"]))
     md.append(f"Largest |z| of an EAS-EUR difference across all 51 fine types: {np.abs(z).max():.2f}.")
-    # Post hoc follow-ups after independent review (2026-09-09)
+    # Post hoc follow-ups after independent review (2026-10-09)
     fx = RES / "donorfix" / "primary_results.json"
     if fx.exists():
         q = json.load(open(fx))

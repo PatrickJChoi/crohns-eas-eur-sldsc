@@ -1,7 +1,7 @@
 # Analysis plan (as registered: doi:10.17605/OSF.IO/HQ4A8)
 
 **Do the gut cell types that carry Crohn's disease heritability differ between East Asian and European ancestry?**
-Draft 2026-09-07. Registered on OSF (doi:10.17605/OSF.IO/HQ4A8) before any association result was read.
+Draft 2026-10-07. Registered on OSF (doi:10.17605/OSF.IO/HQ4A8) before any association result was read.
 No genetic association result (heritability, enrichment, per-variant statistic) has been computed or viewed by us.
 
 ## 1. Hypothesis

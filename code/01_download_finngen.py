@@ -1,7 +1,7 @@
 """Download FinnGen R13 GWAS summary statistics (K11_CD_STRICT2 is the European validation dataset).
 
 Source: public bucket gs://finngen-public-data-r13 (access instructions emailed by
-finngen-servicedesk@helsinki.fi on 2026-09-07). Each file is checked against the
+finngen-servicedesk@helsinki.fi on 2026-10-07). Each file is checked against the
 MD5 that Google Cloud Storage reports, and a provenance row (URL, UTC download
 time, bytes, MD5) is appended to data/raw/finngen_r13/PROVENANCE.tsv.
 
